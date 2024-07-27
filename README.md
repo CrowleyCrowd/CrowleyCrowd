@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **C#, React**
 
-- 📫 How to reach me **efrennap_023@hotmail.com**
+- 📫 How to reach me **ealba@softbuilders.io**
 
 - ⚡ Fun fact **I think I'm friendly.**
 
